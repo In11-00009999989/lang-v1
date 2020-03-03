@@ -1,5 +1,5 @@
-from lib.node import Node
-from lib.bin_tree import arr_to_tree
+from utils.node import Node
+from utils.bin_tree import arr_to_tree
 
 
 lineList = list()
